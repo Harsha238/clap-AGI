@@ -31,3 +31,7 @@ os.system("open -a 'Google Chrome' 'https://github.com'")
 # 3. Open a specific project or file
 os.system("open -a 'Visual Studio Code' '/Path/To/Your/Project'")
 Just place your desired commands in app.py, save, and run it again!
+
+Requirements-- 
+PyAudio
+numpy
